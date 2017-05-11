@@ -1,20 +1,27 @@
 {
-  "name" : "amznmws",
-  "description" : "Amazon Marketplace Web Services client with support for all api calls.",
-  "keywords" : ["mws", "amazon", "marketplace"],
-  "homepage" : "_",
-  "version" : "0.1.2",
-  "author" : "Ammar Husain <ammo700@gmail.com>",
-  "contributors" : ["Eibbor Srenduas"],
-  "main" : "./lib/mws",
-  "directories" : {
+  "name": "amznmws",
+  "description": "Amazon Marketplace Web Services client with support for all api calls.",
+  "keywords": [
+    "mws",
+    "amazon",
+    "marketplace"
+  ],
+  "homepage": "_",
+  "version": "0.1.2",
+  "author": "Ammar Husain <ammo700@gmail.com>",
+  "contributors": [
+    "Eibbor Srenduas"
+  ],
+  "main": "./lib/mws",
+  "directories": {
     "lib": "./lib"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/ammuh/mws-js"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ammuh/mws-js"
   },
-  "dependencies" : {
-    "xml2js" : ">=0.1.13"
+  "dependencies": {
+    "sprintf-js": "^1.1.0",
+    "xml2js": ">=0.1.13"
   }
 }
