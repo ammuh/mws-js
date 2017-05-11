@@ -1,9 +1,9 @@
 {
-  "name" : "mws-js",
+  "name" : "amznmws",
   "description" : "Amazon Marketplace Web Services client with support for all api calls.",
   "keywords" : ["mws", "amazon", "marketplace"],
   "homepage" : "_",
-  "version" : "0.1.1",
+  "version" : "0.1.2",
   "author" : "Ammar Husain <ammo700@gmail.com>",
   "contributors" : ["Eibbor Srenduas"],
   "main" : "./lib/mws",
